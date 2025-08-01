@@ -16,6 +16,7 @@ dependencies:
   - pyproj
   - scipy  # Optional, if doing stats
   - metpy
+  - tephi
   - pip:
       - beautifulsoup4
       - gdown
